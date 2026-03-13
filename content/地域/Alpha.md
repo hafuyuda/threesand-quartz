@@ -1,0 +1,46 @@
+---
+code: Alpha
+core:
+tags:
+  - 地域
+scale: 世界
+parent:
+children:
+  - "[[三公子的穿越之旅]]"
+dg-home:
+dg-publish: true
+created: 2026-02-27T20:50
+updated: 2026-03-13T22:14
+---
+
+---
+
+```dataviewjs
+// 获取当前笔记的 frontmatter 属性
+const frontmatter = dv.current().file.frontmatter;
+
+// 定义需要排除的内部属性（插件使用的、不想显示的）
+const excludeKeys = ['dg-publish', 'dg-home', 'dg-show-local-graph', 'dg-pinned', 'position'];
+
+// 准备表格数据：只保留非空且不在排除列表中的属性
+let rows = [];
+for (let key in frontmatter) {
+    const value = frontmatter[key];
+    // 检查是否非空（null、undefined、空字符串都排除）
+    if (!excludeKeys.includes(key) && value != null && value !== '') {
+        // 如果值是数组，可以格式化为字符串（可选）
+        const displayValue = Array.isArray(value) ? value.join(', ') : value;
+        rows.push([key, displayValue]);
+    }
+}
+
+// 按属性名排序（可选）
+rows.sort((a, b) => a[0].localeCompare(b[0]));
+
+// 显示表格
+dv.table(["属性", "值"], rows);
+```
+
+---
+
+## 历史文化
