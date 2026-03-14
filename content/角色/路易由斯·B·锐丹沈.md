@@ -22,7 +22,7 @@ birthplace:
 current_location:
 appearances:
   - "[[《我真的不喜欢欺诈啊》]]"
-updated: 2026-03-14T09:07
+updated: 2026-03-14T15:42
 created: 2026-02-22T20:51
 height:
 weight:
@@ -86,6 +86,8 @@ dg-publish: true
 [[爱丽丝]]
 
 [[海莉娜]]
+
+[[云缘]]
 ## 语录
 
 ## 创作笔记

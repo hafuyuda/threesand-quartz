@@ -1,4 +1,15 @@
 ---
 title: Threesand World
+created: 2026-03-14T16:30
+updated: 2026-03-14T16:32
 ---
-for WindEnjoyer
+## 地域
+
+世界>宇宙>星团>星系>星球>地区>地点
+
+## 派系
+- 种族
+- 文明
+- 职业
+- 组织
+- 国家
