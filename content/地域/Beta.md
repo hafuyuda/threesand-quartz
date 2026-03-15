@@ -2,7 +2,7 @@
 tags:
   - 地域
 aliases:
-scale: 世界
+scale: 世界级
 parent:
 children:
   - "[[华天]]"
@@ -12,7 +12,7 @@ children:
 dg-home: true
 dg-publish: true
 created: 2026-02-27T20:52
-updated: 2026-03-14T10:18
+updated: 2026-03-15T18:45
 ---
 
 ---
