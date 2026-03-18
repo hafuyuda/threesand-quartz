@@ -9,25 +9,19 @@ race:
 sex: 男
 age:
 birthday:
-civilization:
-organization:
+faction:
   - "[[七海旅士团]]"
   - "[[七神教会]]"
   - "[[无面盛会]]"
 class:
   - 七神教会第八司司长
   - 序列全一联邦主序城起身教会第八特殊行动小队队长
-current_state: 活跃
-birthplace:
-current_location:
 appearances:
   - "[[《我真的不喜欢欺诈啊》]]"
-updated: 2026-03-14T15:42
+updated: 2026-03-17T22:50
 created: 2026-02-22T20:51
 height:
 weight:
-dg-home: false
-dg-publish: true
 ---
 
 ---

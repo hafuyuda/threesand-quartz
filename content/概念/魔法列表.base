@@ -3,7 +3,7 @@ views:
     name: 表格
     filters:
       and:
-        - file.tags.contains("魔法")
+        - file.folder == "03-三千世界/魔法"
     sort:
       - property: file.name
         direction: ASC
