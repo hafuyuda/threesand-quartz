@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: 表格
+    filters:
+      and:
+        - file.hasTag("增幅模式")
+        - '!file.inFolder("01-模板")'
+    order:
+      - file.name
+      - archetype
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1

@@ -6,22 +6,21 @@ aliases:
 scale: 世界级
 parent:
 children:
-  - "[[大天湖]]"
-  - "[[序列全一联邦]]"
+  - "[[巨人盒]]"
 created: 2026-02-27T20:58
-updated: 2026-04-13T07:41
+updated: 2026-04-21T10:28
 ---
 
 ---
 
-| 属性 | 值 |
-| --- | --- |
-| aliases | Delta |
-| children | [[巨人盒]] |
-| created | 2026-02-27T20:58 |
-| scale | 世界 |
-| tags | 地域 |
-| updated | 2026-03-14T17:03 |
+| 属性       | 值                |
+| -------- | ---------------- |
+| aliases  | Delta            |
+| children | [[巨人盒]]          |
+| created  | 2026-02-27T20:58 |
+| scale    | 世界               |
+| tags     | 地域               |
+| updated  | 2026-03-14T17:03 |
 
 ---
 
