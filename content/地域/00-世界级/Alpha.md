@@ -1,14 +1,13 @@
 ---
 code: Alpha
 core:
-tags:
-  - 地域
+tags: [地域]
 scale: 世界级
 parent:
 children:
   - "[[三公子的穿越之旅]]"
-created: 2026-02-27T20:50
-updated: 2026-04-13T07:41
+created: 2026-07-03
+updated: 2026-07-13
 aliases: []
 ---
 
@@ -24,5 +23,4 @@ aliases: []
 
 ---
 
-## 简介
-
+# 简介
