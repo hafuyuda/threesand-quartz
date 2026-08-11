@@ -53,9 +53,9 @@ plugins:
   - source: "@quartz-community/syntax-highlighting"
     enabled: true
     options:
-      theme:
-        light: github-light
-        dark: github-dark
+      #theme:
+      #  light: github-light
+      #  dark: github-dark
       keepBackground: false
     order: 20
   - source: "@quartz-community/obsidian-flavored-markdown"
@@ -272,6 +272,12 @@ plugins:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
+    order: 50
+  - source: github:quartz-community/bases-page
+    enabled: true
+    options:
+      defaultViewType: table
+      linkResolution: shortest
     order: 50
 layout:
   groups:
