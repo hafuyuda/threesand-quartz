@@ -1,6 +1,65 @@
 ---
-title: Welcome to Quartz
+title: Threesand World
+created: 2026-03-14
+updated: 2026-08-01
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# 持续施工中
+
+## 神秘链接
+
+[[其实这是我编的]]
+
+[[我真的不喜欢欺诈啊]]
+
+[[东京：这个魔法师过分科学]]
+
+[[转世后，老婆还在追我]]
+
+## 地域
+
+世界>宇宙>星团>星系>星球>地区>地点
+
+### 世界索引
+
+[[Alpha]]
+
+[[Beta]]——关键词：伏魔师
+
+[[Gamma]]
+
+[[Delta]]
+
+[[Epsilon]]
+
+### 宇宙索引
+
+[[风始宇宙]]
+
+[[华天]]
+
+[[第一宇宙]]
+
+[[现世]]
+
+## 派系
+
+- 种族
+- 文明
+- 职业
+- 组织
+- 国家
+
+## 能力
+
+- 魔法
+- 使者
+
+## 物品
+
+- 极器
+- 魔导器
+
+## 增幅模式
+
+![[增幅模式目录.base]]
